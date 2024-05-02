@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Software Developer",
+    "organisation": "Google",
+    "startDate": "Oct, 2021",
+    "endDate": "Present",
+    "location": "KA,India",
+    "experiences": ["Worked with Angular,React"],
+    "imageSrc": "company/hardwin.png"
+  }
+]
